@@ -1,4 +1,8 @@
-<img width="2600" height="1000" alt="banner" src="https://github.com/user-attachments/assets/2105a70f-28f6-41f3-b296-cef93ddac77d" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cddbc7eb-2ec3-4dc3-8826-8e4ab77a7ba8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9d93ddd7-23ab-4002-8630-257e135adda6">
+  <img alt="CMRDB Banner" src="https://github.com/user-attachments/assets/cddbc7eb-2ec3-4dc3-8826-8e4ab77a7ba8">
+</picture>
 
 ## 一路走來，始終如一
 
